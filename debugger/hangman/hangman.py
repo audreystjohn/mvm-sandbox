@@ -1,0 +1,1 @@
+hiddenWord = "flexibility"
